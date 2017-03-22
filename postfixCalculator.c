@@ -4,7 +4,7 @@
 
 /*
 *
-*   Serhat YILMAZ - 21607858
+*   Serhat YILMAZ
 *   16.11.2016
 *
 *   In this program, reading from text file, firstly categorize calculation or printing commands, then categorize integer
