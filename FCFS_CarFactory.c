@@ -3,7 +3,6 @@
 #include <string.h>
 /*
 * @author: Serhat YILMAZ
-* @id: 21607858
 * @date: 09.12.2016
 *
 *   The program is simulation of car factory. First departments are established. Then cars come one by one then they are pass through
