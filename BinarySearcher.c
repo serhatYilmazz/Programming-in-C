@@ -10,7 +10,7 @@
 #include <unistd.h>
 #include <linux/limits.h> /*If you compile the program in windows please comment this line. */
 /*
-*   @author: Serhat YILMAZ - 21607858
+*   @author: Serhat YILMAZ
 *   @date:  25.12.2016
 *
 *       The program take command line argument. First argument (argv[1]) means directory will be scanned, second command (argv[2])
