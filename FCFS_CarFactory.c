@@ -11,10 +11,7 @@
 *   The code is taking inputs as command line arguments. Therefore please enter your command as (argv[1])
 *   >>..exe *.txt
 *
-*   MinGW's result is giving "Report T Cars", but when I tried this code on Linux or dev server, it they say for "Report T Cars"
-*   'Invalid Command'.
-*
-*   There is only one contradiction between environments. Rest of Commands are working well.
+*   
 */
 
 struct TopOperation{
